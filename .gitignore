@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+venv/
+
+# Old Git backup - never upload
+.git_backup/
+
+# Temporary files
+objects.txt
+large_files.py
+find_large_git_files.py
+
+# Python cache
+__pycache__/
+*.pyc
